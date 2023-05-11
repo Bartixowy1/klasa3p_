@@ -1,0 +1,17 @@
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\bin\Debug\net6.0-windows\onczendz.exe
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\bin\Debug\net6.0-windows\onczendz.deps.json
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\bin\Debug\net6.0-windows\onczendz.runtimeconfig.json
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\bin\Debug\net6.0-windows\onczendz.dll
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\bin\Debug\net6.0-windows\onczendz.pdb
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.Form1.resources
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.csproj.GenerateResource.cache
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.AssemblyInfo.cs
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.dll
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\refint\onczendz.dll
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.pdb
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\onczendz.genruntimeconfig.cache
+C:\Users\uczen\Desktop\3p\visual studio\onczendz\obj\Debug\net6.0-windows\ref\onczendz.dll
